@@ -1,0 +1,198 @@
+@import url('https://fonts.googleapis.com/css2?family=Kaushan+Script&family=Rampart+One&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    line-height: 1.5;
+}
+
+/* HEADER */
+
+.header{
+    width: 100%;
+    border-bottom: 5px solid gold;
+    border-top: 5px solid gold;
+    height: 642px;
+}
+
+.head{
+    width: 70%;
+    margin: auto;
+}
+
+.header img{
+    width: 100%;
+    height: 642px;
+    position: absolute;
+    z-index: -100;
+}
+
+.head{
+    padding-top: 360px;
+}
+
+#fa{
+    float: right;
+    margin: 35px;
+    color: #f2f2f2;
+    font-size: 26px;
+}
+
+.heading{
+    width: 70%;
+    margin: auto;
+    text-align: center;
+    color: white;
+    font-size: larger;
+}
+
+.heading h1{
+    font-family: Kaushan Script;
+    font-size: 58px;
+}
+
+.button{
+    font-size: 18px;
+    padding: 10px 25px;
+    color: rgb(231, 229, 230);
+    background: rgb(50, 110, 241);
+    margin: 20px;
+    border: none;
+}
+
+/* MIddle */
+
+.middle{
+    width: 100%;
+    height: 620px;
+    border-bottom: 6px solid rgb(50, 110, 241);
+}
+
+.mid{
+    width: 80%;
+    float: right;
+    display: flex;
+    margin: 50px;
+    padding: 30px;
+}
+
+.content{
+    margin: 30px;
+    text-align: justify;
+}
+
+.content h1{
+    color: rgb(50, 110, 241);
+}
+
+.content p{
+    color: rgb(102, 102, 102);
+}
+
+.photo img{
+    border-radius: 250px;
+}
+
+.btn{
+    font-size: 15px;
+    padding: 5px 15px;
+    color: rgb(231, 229, 230);
+    background: rgb(50, 110, 241);
+    border: none;
+    margin-top: 25px;
+}
+
+
+/* BETWEEN */
+
+.between{
+    width: 100%;
+    height: 620px;
+    border-bottom: 6px solid rgb(50, 110, 241);
+    background-color: rgb(102, 148, 247);
+}
+
+.bet{
+    width: 80%;
+    float: right;
+    display: flex;
+    margin: 50px;
+    padding: 30px;
+}
+
+.cont{
+    margin: 30px;
+    text-align: justify;
+}
+
+.cont h1{
+    color: white;
+}
+
+.cont p{
+    color: white;
+}
+
+.photo img{
+    border-radius: 250px;
+}
+
+.btn1{
+    font-size: 15px;
+    padding: 5px 15px;
+    color: blue;
+    background: white;
+    border: none;
+    margin-top: 25px;
+}
+
+/* EVENT VENUE */
+
+.event{
+    width: 100%;
+    padding-top: 80px;
+}
+
+.eve{
+    width: 80%;
+    margin: auto;
+    text-align: center;
+}
+
+.eve p{
+    color: rgb(102, 102, 102);
+
+}
+
+.pic{
+    display: flex;
+    padding-top: 30px;
+}
+
+.img{
+    margin: 25px;
+}
+
+.img img{
+    border-radius: 250px;
+}
+
+.footer{
+    width: 100%;
+    margin: 15px;
+}
+
+.foot{
+    width: 70%;
+    margin: auto;
+    text-align: center;
+    padding: 15px;  
+    color: rgb(102, 102, 102);
+}
+
+.icons{
+    font-size: 32px;
+}
+
+.fa{
+    margin: 22px 8px 2px 8px;
+}
